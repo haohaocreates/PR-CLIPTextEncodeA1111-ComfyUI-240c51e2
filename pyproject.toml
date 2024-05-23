@@ -1,0 +1,14 @@
+[project]
+name = "cliptextencodea1111-comfyui"
+description = "Nodes: CLIPTextEncodeA1111, RerouteTextForCLIPTextEncodeA1111."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/SadaleNet/CLIPTextEncodeA1111-ComfyUI"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "CLIPTextEncodeA1111-ComfyUI"
+Icon = ""
